@@ -8,6 +8,7 @@ dating.db
 dating.db-shm
 dating.db-wal
 Migrations
+appsettings.json
 
 # User-specific files
 *.rsuser
