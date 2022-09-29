@@ -1,0 +1,8 @@
+﻿namespace API.DTOs.MessageDtos
+{
+    public class CreateMessageDto
+    {
+        public string RecipientUsername { get; set; }
+        public string Content { get; set; }
+    }
+}
